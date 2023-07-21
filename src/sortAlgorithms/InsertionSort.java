@@ -1,4 +1,4 @@
-package DataStructures;
+package sortAlgorithms;
 
 public class InsertionSort {
 

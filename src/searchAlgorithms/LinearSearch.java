@@ -1,4 +1,4 @@
-package DataStructures;
+package searchAlgorithms;
 
 public class LinearSearch {
 
